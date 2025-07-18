@@ -43,11 +43,14 @@ $DOMAIN *: MERN STACK WEB DEVELOPMENT
 ### 1. Clone the Repository
 
 ```bash
+
 git clone https://github.com/YOUR_USERNAME/collaborative-whiteboard.git
 cd collaborative-whiteboard
+
 2. Install Dependencies
 cd server
 npm install
+
 3. Run the Server
 set HOST=0.0.0.0 && npm start
 
@@ -88,4 +91,6 @@ collab-whiteboard/
 │
 ├── README.md
 ├── .gitignore
+```
+
 
