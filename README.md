@@ -92,5 +92,13 @@ collab-whiteboard/
 ├── README.md
 ├── .gitignore
 ```
+## 📸 Output
+
+
+---
+👨‍💻 Author
+Laivish Sharma
+Intern @ CodTech IT Solutions
+---
 
 
