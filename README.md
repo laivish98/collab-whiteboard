@@ -94,6 +94,11 @@ collab-whiteboard/
 ```
 ## 📸 Output
 
+<img width="1451" height="732" alt="Image" src="https://github.com/user-attachments/assets/3fd1457c-54d4-4f09-9c27-0b26f8087e71" />
+<img width="1279" height="727" alt="Image" src="https://github.com/user-attachments/assets/c808ddec-741d-4e48-af43-6ed0670e85e5" />
+
+<img width="1563" height="825" alt="Image" src="https://github.com/user-attachments/assets/6287e1c2-5a06-4815-8559-c861bb08e11e" />
+<img width="1227" height="687" alt="Image" src="https://github.com/user-attachments/assets/915637a2-9e37-4e99-a16b-bffe9540e75b" />
 
 ---
 👨‍💻 Author
